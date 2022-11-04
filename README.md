@@ -118,9 +118,9 @@ Go to `/src/index.html` and put your information, there are 5 sections:
 <section id="hero" class="jumbotron">
   <div class="container">
     <h1 class="hero-title load-hidden">
-      Hi, my name is <span class="text-color-main">Your Name</span>
+      Hi, my name is <span class="text-color-main">Nguyen Manh Hung</span>
       <br />
-      I'm the Unknown Developer.
+      I'm the Data Analyst.
     </h1>
     <p class="hero-cta load-hidden">
       <a rel="noreferrer" class="cta-btn cta-btn--hero" href="#about">
@@ -159,12 +159,15 @@ Go to `/src/index.html` and put your information, there are 5 sections:
       <div class="col-md-6 col-sm-12">
         <div class="about-wrapper__info load-hidden">
           <p class="about-wrapper__info-text">
-            This is where you can describe about yourself. The more you describe
-            about yourself, the more chances you can!
+            With more than a year in the field of data analytics, I have a
+            comprehensive understanding of data management, data exploration,
+            and model development. Because I have a foundation in economics from
+            my undergraduate studies and have completed multiple courses about
+            data science, I am also at ease using technologies like SQL, Python,
+            and Power BI to gather, study, analyze, visualize, and anticipate
+            the result.
           </p>
-          <p class="about-wrapper__info-text">
-            Extra Information about you! like hobbies and your goals.
-          </p>
+          <p class="about-wrapper__info-text"></p>
           <span class="d-flex mt-3">
             <a
               rel="noreferrer"
